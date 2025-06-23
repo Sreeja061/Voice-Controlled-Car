@@ -1,0 +1,4 @@
+App used: Arduino Bluetooth Control (broxcode)
+Features: Voice control, custom buttons, terminal.
+Custom mappings: forward → 'f', backward → 'b', left → 'l', right → 'r', stop → 's'
+Play Store search term: Arduino Bluetooth Control broxcode
